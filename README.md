@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ibad Baig</h1>
+<h1 align="center" color="pink">Hi 👋, I'm Ibad Baig</h1>
 <h3 align="center">A passionate frontend developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibad81&label=Profile%20views&color=0e75b6&style=flat" alt="ibad81" /> </p>
