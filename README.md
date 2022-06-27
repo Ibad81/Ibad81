@@ -1,6 +1,6 @@
 <p align="center"> 
         <a href="www.linkedin.com/in/Ibad81">
-        <img align="left" alt="Ibad81's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" </a>
+        <img align="left" alt="Ibad81's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
         <img align="left" width="28px" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif">
         <img align="right" src="https://komarev.com/ghpvc/?username=Ibad81&label=Profile%20views&color=0e75b6&style=flat" alt="Ibad_Baig" />
         <img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
