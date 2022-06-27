@@ -1,34 +1,54 @@
-<h1 align="center" styles="color:pink">Hi 👋, I'm Ibad Baig</h1>
-<h3 align="center">A passionate frontend developer From India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibad81&label=Profile%20views&color=0e75b6&style=flat" alt="ibad81" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibad81" alt="ibad81" /></a> </p>
-
-- 🔭 I’m currently working on **Java**
-
-- 🌱 I’m currently a **Student**
-
-- 👨‍💻 All of my projects are available at [ibad81](ibad81)
-
-- 💬 Ask me about **Java,python,c**
-
-- 📫 How to reach me **ibadbaig921@gmail.com**
-
-- ⚡ Fun fact **Coffee<3,**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ibad baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibad baig" height="30" width="40" /></a>
-<a href="https://instagram.com/ibad_mirza_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibad_mirza_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/2i_ibad_baig_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2i_ibad_baig_20" height="30" width="40" /></a>
+<p align="center"> 
+<a href="https://www.linkedin.com/in/ibad-baig-06226b1ba">
+<img align="left" alt="Ibad baig LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
+<img align="left" width="28px" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif">
+<img align="right" src="https://komarev.com/ghpvc/?username=Ibad81&label=Profile%20views&color=0e75b6&style=flat" alt="Ibad baig" />
+<img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 </p>
+<br> <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">Helom, 🙏 I'm Ibad Baig</h1>
+<h3 align="center">Meh is Pervert | (.)</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibad81&show_icons=true&locale=en&layout=compact" alt="ibad81" /></p>
+```
+- 🔭 I’m currently working on Self Development
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibad81&show_icons=true&locale=en" alt="ibad81" /></p>
+- 🌱 I’m currently learning code
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibad81&" alt="ibad81" /></p>
+## My Github Stats:
+
+<!-- Generate your own metrics @ https://metrics.lecoq.io/ -->
+
+<img  align="center" width="700" src="https://metrics.lecoq.io/rajput-hemant?template=classic&isocalendar=1&languages=1&stars=1&followup=1&achievements=1&introduction=1&people=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&config.timezone=Asia%2FCalcutta)">
+
+<!-- ![Metrics](https://metrics.lecoq.io/rajput-hemant?template=classic&isocalendar=1&languages=1&stars=1&followup=1&achievements=1&people=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta) -->
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajput-hemant"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ibad81&show_icons=true&locale=en&layout=compact">
+
+## Languages and Tools:
+
+<a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
+<a href="https://github.com/"> <img src="https://github.com/hussainweb/hussainweb/raw/main/icons/github.png" alt="git" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;
+<br>
+
+## See me at:
+
+
+<br> <br>
+
+## Contribution & Streak:
+
+![snake gif](https://github.com/Ibad81/Ibad81/blob/output/github-contribution-grid-snake.gif)
+
+<p align="center" >
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Ibad81">
+</p> 
+<p align="center">
+<img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
+</p>
+<img src='https://raw.githubusercontent.com/Ibad81/Ibad81/master/src/pokemon.gif' width = 150 align = "right" alt="PiikaChuuu" >
