@@ -11,7 +11,7 @@
 <h3 align="center">Meh is Pervert | (.)</h3>
 
 ```
-- 🔭 I’m currently working on Self Development
+- 🔭 I’m currently working on Web Development
 
 - 🌱 I’m currently learning code
 ```
